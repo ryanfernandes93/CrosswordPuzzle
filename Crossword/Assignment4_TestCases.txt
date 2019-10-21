@@ -1,0 +1,22 @@
+//LoadPuzzle
+1)Ability to add a crossword of size 10*10
+2)Adding a crossword of size 0*0
+3)Adding as a word of length more than 10
+4)Adding a crossword of 0 words
+
+//Solve
+1)Solve a crossword with no solution
+2)Solve a crossword with a single solution
+3)Solve a crossword with multiple solution
+4)Solve a puzzle without calling loadPuzzle
+
+//Print
+1)Printing a puzzle without any calling loadPuzzle
+2)Printing a puzzle without any calling solve
+3)Print an empty puzzle
+4)Print puzzle which has no solution
+5)Print puzzle which has a solution
+
+//Choices
+1)choices is called after solve method-crossword with solution
+2)choices is called after solve method-crossword with no solution
